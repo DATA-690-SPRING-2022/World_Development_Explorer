@@ -6,7 +6,7 @@ Name: Snigdha Panakanti <br/>
 Agriculture provides the largest share of food supplies and ensures a critical number of ecosystem services all over the world. Though all the countries are rich in producing food, there are also some insecuirities/scarcity of food in the population.
 This report explains the detail analysis of food production, agricultural land area, food insecurities in people and their undernourishment among the three countries over the period of 8 years (2010-2018).
 ### Analysis and Strategy:
-Countries considered:India, USA, Thailand. <br/>
+Countries considered: India, USA, Thailand. <br/>
 Time Span: 2010 - 2018 <br/>
 Data Source: http://www.worlddev.xyz <br/>
 Indicators: 
@@ -15,6 +15,8 @@ Indicators:
   - Agricultural Land (% of land area)
   - Prevalence of moderate or severe food insecurity in the population (%)
   - Prevalence of undernourishment (% of population) 
+  - Permanent cropland (% of land area)
+  - Arable land (% of land area)
 <br/> 
 The total agricultural land area in percentage of three countries is shown below in the bar chart. <br/>
 
