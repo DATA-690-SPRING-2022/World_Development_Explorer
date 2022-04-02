@@ -1,0 +1,72 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2016,102.23,AG.PRD.FOOD.XD,IND,India,South Asia,Lower middle income,IBRD
+1,2017,107.77,AG.PRD.FOOD.XD,IND,India,South Asia,Lower middle income,IBRD
+2,2018,111.77,AG.PRD.FOOD.XD,IND,India,South Asia,Lower middle income,IBRD
+3,2016,95.8,AG.PRD.FOOD.XD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+4,2017,104.68,AG.PRD.FOOD.XD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+5,2018,106.45,AG.PRD.FOOD.XD,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+6,2016,104.69,AG.PRD.FOOD.XD,USA,United States,North America,High income,Not classified
+7,2017,103.35,AG.PRD.FOOD.XD,USA,United States,North America,High income,Not classified
+8,2018,105.95,AG.PRD.FOOD.XD,USA,United States,North America,High income,Not classified
+9,2016,1324517250.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+10,2017,1338676779.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+11,2018,1352642283.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+12,2019,1366417756.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+13,2020,1380004385.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+14,2016,68971313.0,SP.POP.TOTL,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+15,2017,69209817.0,SP.POP.TOTL,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+16,2018,69428454.0,SP.POP.TOTL,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+17,2019,69625581.0,SP.POP.TOTL,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+18,2020,69799978.0,SP.POP.TOTL,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+19,2016,323071755.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+20,2017,325122128.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+21,2018,326838199.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+22,2019,328329953.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+23,2020,329484123.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+24,2016,14.2,SN.ITK.DEFC.ZS,IND,India,South Asia,Lower middle income,IBRD
+25,2017,13.8,SN.ITK.DEFC.ZS,IND,India,South Asia,Lower middle income,IBRD
+26,2018,14.0,SN.ITK.DEFC.ZS,IND,India,South Asia,Lower middle income,IBRD
+27,2019,15.3,SN.ITK.DEFC.ZS,IND,India,South Asia,Lower middle income,IBRD
+28,2016,7.5,SN.ITK.DEFC.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+29,2017,7.7,SN.ITK.DEFC.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+30,2018,7.9,SN.ITK.DEFC.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+31,2019,8.2,SN.ITK.DEFC.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+32,2016,2.5,SN.ITK.DEFC.ZS,USA,United States,North America,High income,Not classified
+33,2017,2.5,SN.ITK.DEFC.ZS,USA,United States,North America,High income,Not classified
+34,2018,2.5,SN.ITK.DEFC.ZS,USA,United States,North America,High income,Not classified
+35,2019,2.5,SN.ITK.DEFC.ZS,USA,United States,North America,High income,Not classified
+36,2016,52.608814102,AG.LND.ARBL.ZS,IND,India,South Asia,Lower middle income,IBRD
+37,2017,52.608814102,AG.LND.ARBL.ZS,IND,India,South Asia,Lower middle income,IBRD
+38,2018,52.608814102,AG.LND.ARBL.ZS,IND,India,South Asia,Lower middle income,IBRD
+39,2016,32.9033647165,AG.LND.ARBL.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+40,2017,32.9033647165,AG.LND.ARBL.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+41,2018,32.9033647165,AG.LND.ARBL.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+42,2016,17.1841896404,AG.LND.ARBL.ZS,USA,United States,North America,High income,Not classified
+43,2017,17.2438567377,AG.LND.ARBL.ZS,USA,United States,North America,High income,Not classified
+44,2018,17.2438567377,AG.LND.ARBL.ZS,USA,United States,North America,High income,Not classified
+45,2016,4.3724080869,AG.LND.CROP.ZS,IND,India,South Asia,Lower middle income,IBRD
+46,2017,4.3724080869,AG.LND.CROP.ZS,IND,India,South Asia,Lower middle income,IBRD
+47,2018,4.3724080869,AG.LND.CROP.ZS,IND,India,South Asia,Lower middle income,IBRD
+48,2016,8.808158312,AG.LND.CROP.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+49,2017,8.808158312,AG.LND.CROP.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+50,2018,8.808158312,AG.LND.CROP.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+51,2016,0.29516519410000003,AG.LND.CROP.ZS,USA,United States,North America,High income,Not classified
+52,2017,0.29516519410000003,AG.LND.CROP.ZS,USA,United States,North America,High income,Not classified
+53,2018,0.29516519410000003,AG.LND.CROP.ZS,USA,United States,North America,High income,Not classified
+54,2016,19.7,SN.ITK.MSFI.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+55,2017,24.8,SN.ITK.MSFI.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+56,2018,26.4,SN.ITK.MSFI.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+57,2019,29.8,SN.ITK.MSFI.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+58,2016,9.8,SN.ITK.MSFI.ZS,USA,United States,North America,High income,Not classified
+59,2017,8.9,SN.ITK.MSFI.ZS,USA,United States,North America,High income,Not classified
+60,2018,8.4,SN.ITK.MSFI.ZS,USA,United States,North America,High income,Not classified
+61,2019,8.0,SN.ITK.MSFI.ZS,USA,United States,North America,High income,Not classified
+62,2016,60.4313885086,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+63,2017,60.4313885086,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+64,2018,60.4313885086,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+65,2016,43.2774178395,AG.LND.AGRI.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+66,2017,43.2774178395,AG.LND.AGRI.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+67,2018,43.2774178395,AG.LND.AGRI.ZS,THA,Thailand,East Asia & Pacific,Upper middle income,IBRD
+68,2016,44.3037053071,AG.LND.AGRI.ZS,USA,United States,North America,High income,Not classified
+69,2017,44.3633673539,AG.LND.AGRI.ZS,USA,United States,North America,High income,Not classified
+70,2018,44.3633673539,AG.LND.AGRI.ZS,USA,United States,North America,High income,Not classified
